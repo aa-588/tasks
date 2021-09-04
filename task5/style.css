@@ -1,0 +1,102 @@
+
+        .navbar {
+            display: flex;
+            /* align-items: center; */
+            /* justify-content: center; */
+            /* position: sticky; */
+            top: 0;
+            cursor: pointer;
+            flex-direction: row;
+        }
+ 
+        .background {
+            background: black;
+            background-blend-mode: darken;
+            background-size: cover;
+            padding-top: 0px;
+        }
+        .logo {
+            /* display: flex; */
+            justify-content: center;
+            align-items: right;
+            /* flex-direction: ; */
+            flex:30%
+        }
+        .navl{
+            display: flex;
+            flex-direction: row;
+            flex:70%;
+            /* margin: auto; */
+
+        }
+        
+        .logo img {
+            width: 180px;
+            border-radius: 50px;
+        }
+        .navl ul{
+            display: flex;
+            flex-direction: row;
+        }
+ 
+        .navl li{
+            list-style: none;
+            margin: auto;
+            /* justify-content: center; */
+            /* align-items: center; */
+            /* padding: 20px 25px; */
+            font-size: larger;
+            /* display: flex; */
+            text-decoration: none;
+            padding-left: 2cm;
+            }
+ 
+        .navl li a {
+            margin: auto;
+            text-decoration: none;
+            color: white;
+            padding: 9px 9px 9px 9px;
+            border-radius: 2.5px;
+            
+            /* display: flex; */
+            /* flex-direction: row; */
+            
+        }
+ 
+        .navl li a:hover {
+            /* color: grey; */
+            background-color: gray;
+            
+        }
+ 
+        /* .rightnav {
+            width: 30%;
+            text-align: right;
+        } */
+.header{
+    
+    background-image: url(https://images.wallpaperscraft.com/image/single/headphones_bw_headset_120277_1600x900.jpg);
+    height: 500px;
+    background-repeat: no-repeat ;
+    /* width: auto;  */
+    padding-top: 0px;
+
+    /* background-position: center; */
+    
+}
+/* .start {
+    padding: auto;
+    text-align: center;
+} */
+ .p1{
+     /* display: flex; */
+     vertical-align: middle;
+     text-align: center;
+     /* padding: auto; */
+     /* margin-top: 10px; */
+     
+ }
+ .container{
+background-color: gray;
+height: 500px;
+ }
