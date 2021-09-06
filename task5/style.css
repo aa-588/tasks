@@ -1,4 +1,5 @@
 
+
         .navbar {
             display: flex;
             /* align-items: center; */
@@ -31,8 +32,8 @@
         }
         
         .logo img {
-            width: 180px;
-            border-radius: 50px;
+            width: 150px;
+            border-radius: 40px;
         }
         .navl ul{
             display: flex;
@@ -96,7 +97,95 @@
      /* margin-top: 10px; */
      
  }
- .container{
-background-color: gray;
-height: 500px;
+ .page2{
+background-color: rgb(88, 81, 81);
+height: 900px;
+ }
+ .btn1{ 
+    margin-left: 550px;
+    margin-top: 44px;
+      align-items: center;
+      margin-bottom: 21px;
+   
+      /* padding-left: 28px; */
+      /* padding: 28px 28px 15px 15px; */
+      /* padding: 12px 12px 12px 12px; */
+ }
+/* .img2 {
+    margin-right: 314px;
+    margin-left: 2%;
+    margin: 0;
+    width: 500px;
+    height: 300px;
+    /* margin: 0; */
+    
+    /* border-top-width: 0px; */
+/* border-top-style: solid; */
+/* margin-top: 40px; */
+/*     
+ }
+ .img3{
+     margin: 0;
+     height: 300px;
+
+     margin-left: 0%;
+     margin-left: -70%; */
+/* border-bottom-width: 33px; */
+/* border-bottom-style: solid; */
+ /* }  */
+ .mockup1{
+     /* width: 1161.12px;
+     height: 300px; */
+    margin-left: -485px;
+    margin-top: 24px;
+    /* width: 1173px;
+height: 401.217px; */
+ }
+ #video h3{
+     text-align: center;
+     font-size: 1cm;}
+     .btn btn-secondary button{
+         color:darkgrey
+     }
+
+ 
+ .lead{
+     text-align: center;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     margin-left: 2cm;
+     margin-right: 2cm;
+     font-weight: 400;
+     font-size: 20px;
+     color: rgb(39, 37, 37);
+ }
+ #entertainment{
+     background-image: url(https://jolly-kalam-23776e.netlify.app/mytunes/img/section-bg.jpeg);
+     color: rgb(255, 255, 255);
+     background-repeat: no-repeat;
+ }
+ .lead {
+     padding-top: 3cm;
+     /* padding-bottom: 6cm; */
+    
+ }
+ .div-class{
+     display: flex;
+     
+ }
+ .footer-cols{
+     display: flex;
+     flex-direction: row;
+     /* margin-top:0; */
+ }
+  ul{
+     margin-left: 92px;
+ } 
+ footer{
+     /* margin:0; */
+    background-color: rgb(149, 161, 187);
+ }
+ .btn22 a{
+     text-decoration: none;
+     color: darkslategrey;
+
  }
